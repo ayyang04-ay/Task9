@@ -1,9 +1,0 @@
-Figure 2b: Clinical score
-Statistics: 2way ANOVA with Tukey's multiple comparision test 
-Clinical score
-,Naive,,,BCG SSI ,,,BCG::ESAT6-PE25SS,,,BCG SSI + aCD4,,,BCG::ESAT6-PE25SS + aCD4,,,Mtb ,,,BCG SSI + Mtb,,,BCG::ESAT6-PE25SS + Mtb,,,aCD4 + Mtb,,,BCG SSI + aCD4 + Mtb ,,,BCG::ESAT6-PE25SS + aCD4 + Mtb ,,
-,Mean,SEM,n,Mean,SEM,n,Mean,SEM,n,Mean,SEM,n,Mean,SEM,n,Mean,SEM,n,Mean,SEM,n,Mean,SEM,n,Mean,SEM,n,Mean,SEM,n,Mean,SEM,n
-Appearence,0,0,10,0,0,10,0,0,10,0,0,10,0,0,10,0,0,38,0,0,10,0,0,10,5.2631578947368397E-2,3.6709780655942902E-2,38,2.6315789473684199E-2,2.6315789473684199E-2,38,2.6315789473684199E-2,2.6315789473684199E-2,38
-Behaviour and movement,0,0,10,0,0,10,0,0,10,0,0,10,0,0,10,0,0,38,0,0,10,0,0,10,0,0,38,0,0,38,0,0,38
-Reaction to mild stimuli,0,0,10,0,0,10,0,0,10,0,0,10,0,0,10,0,0,38,0,0,10,0,0,10,2.6315789473684199E-2,2.6315789473684199E-2,38,0,0,38,0,0,38
-Breathing,0,0,10,0,0,10,0,0,10,0,0,10,0,0,10,0,0,38,0,0,10,0,0,10,0,0,38,0,0,38,0,0,38

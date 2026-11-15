@@ -1,8 +1,0 @@
-Figure 2f: Log10 CFU_BCG and PE25,,,,,,,,
-Statistics: 2way ANOVA with Turkey's multiple comparision test 
-CFU
-,Naive,,,BCG SSI,,,BCG::ESAT6-PE25SS ,,,BCG SSI + aCD4,,,BCG::ESAT6-PE25SS + aCD4 ,,
-,Mean,SEM,N,Mean,SEM,N,Mean,SEM,N,Mean,SEM,N,Mean,SEM,N
-LNs,0,0,10,0,0,10,0,0,10,0,0,10,0,0,10
-Spleen ,0,0,10,0,0,10,0,0,10,0,0,10,0.1,0.1,10
-Lung,0,0,10,0,0,10,0,0,10,0.1,0.1,10,0,0,10
